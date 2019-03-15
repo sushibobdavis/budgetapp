@@ -6,12 +6,12 @@
 
 <script>
 // @ is an alias to /src
-import CreateBudget from '@/components/CreateBudget.vue'
+import CreateBudget from '@/components/CreateBudget.vue';
 
 export default {
   name: 'home',
   components: {
-    CreateBudget
-  }
-}
+    CreateBudget,
+  },
+};
 </script>
